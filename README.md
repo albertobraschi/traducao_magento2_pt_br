@@ -2,7 +2,7 @@
   <br>
     <img src="https://i.imgur.com/d8QEHRb.png" alt="Tradução Magento 2 pt_BR" width="128" height="128" title="Tradução Magento 2 pt_BR"/>
   <br>
-  Tradução para Magento 2.0.7 em Português do Brasil (pt_BR)
+  Tradução para Magento 2.1.0 em Português do Brasil (pt_BR)
   <br>
   <br>
 </h1>
@@ -19,7 +19,7 @@ Esse pacote de linguagem foi gerado com base na [Tradução Oficial do Magento 2
 Para instalar essa tradução via [Composer](https://getcomposer.org) você precisa usar o terminal do seu servidor.
 
 ```
-composer require rafaelstz/traducao_magento2_pt_br:2.0.7.x-dev
+composer require rafaelstz/traducao_magento2_pt_br:2.1.0.x-dev
 php bin/magento cache:clean
 ```
 

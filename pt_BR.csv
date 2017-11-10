@@ -9983,7 +9983,7 @@ Shipments,Postagens,module,Magento_Shipping
 "We can't delete tracking number.","Não foi possível excluir o número de rastreio.",module,Magento_Shipping
 "We can't load track with retrieving identifier right now.","Não podemos carregar o rastreio com recuperação de identificador no momento.",module,Magento_Shipping
 "We can't save the shipment right now.","Não podemos salvar a postagem agora.",module,Magento_Shipping
-"""Shipment Document Validation Error(s):\n"" .","""Shipment Document Validation Error(s):\n"" .",module,Magento_Shipping
+"""Shipment Document Validation Error(s):\n"" .","""Erro(s) de validação do documento de expedição:\n"".",module,Magento_Shipping
 "The shipment has been created.","A remessa foi criada.",module,Magento_Shipping
 "Cannot save shipment.","Não foi possível salvar o envio.",module,Magento_Shipping
 "The order no longer exists.","O pedido não existe mais.",module,Magento_Shipping

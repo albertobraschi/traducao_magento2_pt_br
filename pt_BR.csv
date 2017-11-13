@@ -6245,7 +6245,7 @@ AutoSweep,"Varredura automática",module,Magento_Paypal
 "Reversal of hold for Dispute Investigation","Reverter o montante suspenso para Investigação da Disputa",module,Magento_Paypal
 "General: adjustment of a type not belonging to the other T12xx categories","Geral: ajuste de um tipo não pertencente às outras categorias T12xx",module,Magento_Paypal
 Reversal,Reversão,module,Magento_Paypal
-Charge-off,Dívida,module,Magento_Paypal
+Charge-off,Reembolso,module,Magento_Paypal
 Incentive,Incentivo,module,Magento_Paypal
 "Reimbursement of Chargeback","Reembolso de Transação Anulada",module,Magento_Paypal
 "General (Authorization)","Geral (Autorização)",module,Magento_Paypal
@@ -7880,7 +7880,7 @@ Coupons,Cupons,module,Magento_Sales
 Print,Imprimir,module,Magento_Sales
 "Submit Comment","Enviar comentário",module,Magento_Sales
 Returned,Devolvido,module,Magento_Sales
-"Order Date","Order Date",module,Magento_Sales
+"Order Date","Data do Pedido",module,Magento_Sales
 "Order #","Pedido #",module,Magento_Sales
 "Order Date:","Data do pedido:",module,Magento_Sales
 "Comment Text","Texto do comentário",module,Magento_Sales
@@ -8235,17 +8235,17 @@ Complete,Finalizado,module,Magento_Sales
 "Credit Memo Comments","Comentários de memorando de crédito",module,Magento_Sales
 "Refund Totals","Total reembolsado",module,Magento_Sales
 "Email Copy of Credit Memo","E-mail cópia da nota de crédito",module,Magento_Sales
-"Please enter a positive number in this field.","Please enter a positive number in this field.",module,Magento_Sales
+"Please enter a positive number in this field.","Por favor insira um número positivo neste campo.",module,Magento_Sales
 "Items Refunded","Itens reembolsados",module,Magento_Sales
 "No Items","Não há itens",module,Magento_Sales
-"Credit Memo History","Credit Memo History",module,Magento_Sales
-"Credit Memo Totals","Credit Memo Totals",module,Magento_Sales
-"Create Shipment","Create Shipment",module,Magento_Sales
+"Credit Memo History","História de memorando de crédito",module,Magento_Sales
+"Credit Memo Totals","Totais de memorando de crédito",module,Magento_Sales
+"Create Shipment","Criar o carregamento",module,Magento_Sales
 "Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.",module,Magento_Sales
-"Qty to Invoice","Qty to Invoice",module,Magento_Sales
-"Invoice History","Invoice History",module,Magento_Sales
-"Invoice Comments","Invoice Comments",module,Magento_Sales
-"Invoice Totals","Invoice Totals",module,Magento_Sales
+"Qty to Invoice","Quantidade para faturar",module,Magento_Sales
+"Invoice History","Histórico de Faturas",module,Magento_Sales
+"Invoice Comments","Comentários da Fatura",module,Magento_Sales
+"Invoice Totals","Totais da Fatura",module,Magento_Sales
 "Capture Amount","Capturar Montante",module,Magento_Sales
 "Capture Online","Capturar on-line",module,Magento_Sales
 "Capture Offline","Capturar off-line",module,Magento_Sales
@@ -8255,12 +8255,12 @@ Complete,Finalizado,module,Magento_Sales
 "Items Invoiced","Itens faturados",module,Magento_Sales
 "Total Tax","Imposto total",module,Magento_Sales
 "From Name","Nome do remetente",module,Magento_Sales
-"To Name","To Name",module,Magento_Sales
+"To Name",Para,module,Magento_Sales
 "Add Order Comments","Adicionar comentários do pedido",module,Magento_Sales
 "Notification Not Applicable","Notification Not Applicable",module,Magento_Sales
 "the order confirmation email was sent","foi enviado o e-mail de confirmação do pedido",module,Magento_Sales
 "the order confirmation email is not sent","o e-mail de confirmação do pedido não é enviado",module,Magento_Sales
-"Order Date (%1)","Order Date (%1)",module,Magento_Sales
+"Order Date (%1)","Data do pedido (%1)",module,Magento_Sales
 "Purchased From","Purchased From",module,Magento_Sales
 "Link to the New Order","Link to the New Order",module,Magento_Sales
 "Link to the Previous Order","Link to the Previous Order",module,Magento_Sales
@@ -8313,7 +8313,7 @@ Comma-separated,Comma-separated,module,Magento_Sales
 "Hide Customer IP","Esconder IP do Cliente",module,Magento_Sales
 "Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.",module,Magento_Sales
 "Checkout Totals Sort Order","Checkout Totals Sort Order",module,Magento_Sales
-"Allow Reorder","Allow Reorder",module,Magento_Sales
+"Allow Reorder","Permitir Recompra",module,Magento_Sales
 "Invoice and Packing Slip Design","Invoice and Packing Slip Design",module,Magento_Sales
 "Logo for PDF Print-outs (200x50)","Logo for PDF Print-outs (200x50)",module,Magento_Sales
 "Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.",module,Magento_Sales
@@ -9317,7 +9317,7 @@ Header,Cabeçalho,module,Magento_Theme
 "We cannot upload the CSS file.","Nós não podemos carregar o arquivo CSS.",module,Magento_Theme
 "We cannot upload the JS file.","Nós não podemos carregar o arquivo JS.",module,Magento_Theme
 "Browse Files","Procurar arquivos",module,Magento_Theme
-"Create Folder","Criar Pasta",module,Magento_Theme
+"Create Folder","Criar pasta",module,Magento_Theme
 "Report All Bugs","Reportar todos os Bugs",module,Magento_Theme
 "(ver. %1)","(ver. %1)",module,Magento_Theme
 "Welcome, %1!","Bem-vindo(a), %1!",module,Magento_Theme
@@ -9357,12 +9357,12 @@ Manage,Gerenciar,module,Magento_Theme
 "We cannot find theme ""%1"".","Não conseguimos encontrar o tema ""%1"".",module,Magento_Theme
 "We cannot find the theme.","Não conseguimos encontrar o tema.",module,Magento_Theme
 "Theme isn't editable.","Tema não é editável.",module,Magento_Theme
-"You saved the theme.","Gravou o tema.",module,Magento_Theme
+"You saved the theme.","Você salvou o tema.",module,Magento_Theme
 "You deleted the theme.","Você excluiu o tema.",module,Magento_Theme
 "We cannot delete the theme.","Não conseguimos apagar o tema.",module,Magento_Theme
 "We cannot find a theme with id ""%1"".","Não conseguimos encontrar o tema com id ""%1"".",module,Magento_Theme
 "We cannot find file","Não conseguimos encontrar arquivo",module,Magento_Theme
-"File not found: ""%1"".","Ficheiro não encontrado: ""%1"".",module,Magento_Theme
+"File not found: ""%1"".","Arquivo não encontrado: ""%1"".",module,Magento_Theme
 "The CSS file must be less than %1M.","O ficheiro CSS deve ter dimensão inferior a %1M.",module,Magento_Theme
 "The JS file must be less than %1M.","O ficheiro JS deve ter dimensão inferior a %1M.",module,Magento_Theme
 "Use only standard alphanumeric, dashes and underscores.","Use apenas caracteres alfanuméricos, hífens e underscores.",module,Magento_Theme

@@ -9320,7 +9320,7 @@ Header,Cabeçalho,module,Magento_Theme
 "Create Folder","Criar pasta",module,Magento_Theme
 "Report All Bugs","Reportar todos os Bugs",module,Magento_Theme
 "(ver. %1)","(ver. %1)",module,Magento_Theme
-"Welcome, %1!","Bem-vindo(a), %1!",module,Magento_Theme
+"Welcome, %1!","Bem-vindo, %1!",module,Magento_Theme
 "Add New Theme","Adicionar novo tema",module,Magento_Theme
 Themes,Temas,module,Magento_Theme
 "Theme: %1","Tema: %1",module,Magento_Theme
@@ -9367,11 +9367,11 @@ Manage,Gerenciar,module,Magento_Theme
 "The JS file must be less than %1M.","O ficheiro JS deve ter dimensão inferior a %1M.",module,Magento_Theme
 "Use only standard alphanumeric, dashes and underscores.","Use apenas caracteres alfanuméricos, hífens e underscores.",module,Magento_Theme
 "We found a directory with the same name.","Encontrámos uma diretoria com o mesmo nome.",module,Magento_Theme
-"We cannot find a directory with this name.","Não conseguimos encontrar uma diretoria com este nome.",module,Magento_Theme
-"We found no files.","Não encontrámos nenhum ficheiro.",module,Magento_Theme
+"We cannot find a directory with this name.","Não conseguimos encontrar um diretório com este nome.",module,Magento_Theme
+"We found no files.","Não encontramos nenhum arquivo.",module,Magento_Theme
 "Help Us to Keep Magento Healthy","Ajude-nos a manter o Magento saudável",module,Magento_Theme
 "Toggle Nav","Alternar Nav",module,Magento_Theme
-"JavaScript seems to be disabled in your browser.","O JavaScript parece estar desativado no seu browser.",module,Magento_Theme
+"JavaScript seems to be disabled in your browser.","O JavaScript parece estar desabilitado no seu navegador.",module,Magento_Theme
 "Enable JavaScript in your browser to get the best experience on our website!","Ative o JavaScript no seu navegador para obter a melhor experiência em nosso site!",module,Magento_Theme
 "Local Storage seems to be disabled in your browser.","O Armazenamento Local parece estar desativado no seu browser.",module,Magento_Theme
 "Enable Local Storage in your browser to get the best experience on our website!","Habilita o armazenamento Local em seu navegador para obter a melhor experiência em nosso site!",module,Magento_Theme

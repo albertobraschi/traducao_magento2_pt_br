@@ -125,7 +125,7 @@ Customers,Clientes,module,Magento_AdvancedCheckout
 "You added %1 to your shopping cart.","Você adicionou %1 ao carrinho de compras.",module,Magento_AdvancedCheckout
 "You cannot add a product.","Você não pode adicionar um produto.",module,Magento_AdvancedCheckout
 "Order by SKU","Ordenar por SKU",module,Magento_AdvancedCheckout
-"SKU not found in catalog.","SKU não encontrado no catálogo.",module,Magento_AdvancedCheckout
+"SKU not found in catalog.","SKU não foi encontrado no catálogo.",module,Magento_AdvancedCheckout
 "Availability: Out of stock.","Disponibilidade: Sem estoque.",module,Magento_AdvancedCheckout
 "The requested quantity is not available.","A quantidade solicitada não está disponível.",module,Magento_AdvancedCheckout
 "The product cannot be added to cart in requested quantity.","O produto não pode ser adicionado ao carrinho na quantidade pedida.",module,Magento_AdvancedCheckout
@@ -6224,14 +6224,14 @@ AutoSweep,"Varredura automática",module,Magento_Paypal
 "Merchant Referral Bonus","Bónus de Referência de Comerciantes",module,Magento_Paypal
 "Balance Manager Account Bonus","Bónus da Conta da Gestão de Saldo",module,Magento_Paypal
 "PayPal Buyer Warranty Bonus","Bónus de Garantia do Comprador PayPal",module,Magento_Paypal
-"PayPal Protection Bonus","Bónus de Proteção PayPal",module,Magento_Paypal
+"PayPal Protection Bonus","Bônus de proteção do PayPal",module,Magento_Paypal
 "Bonus for first ACH Use","Bônus para o primeiro uso de ACH",module,Magento_Paypal
 "General Redemption","Reembolso Geral",module,Magento_Paypal
 "Gift Certificate Redemption","Uso de Cartão de Oferta",module,Magento_Paypal
 "Points Incentive Redemption","Desconto de Pontos de Incentivo",module,Magento_Paypal
 "Coupon Redemption","Reembolsar Cupom",module,Magento_Paypal
 "Reward Voucher Redemption","Redenção de Voucher de Recompensa",module,Magento_Paypal
-"General. Product no longer supported","Geral. O produto já não é suportado",module,Magento_Paypal
+"General. Product no longer supported","Geral. Não há mais suporte para o produto",module,Magento_Paypal
 "General: reversal of a type not belonging to the other T11xx categories","Geral: inversão de um tipo não pertencente às outras categorias T11xx",module,Magento_Paypal
 "ACH Withdrawal","ACH Retirada",module,Magento_Paypal
 "Debit Card Transaction","Transação com cartão de débito",module,Magento_Paypal
@@ -6279,7 +6279,7 @@ Funding,Financiamento,module,Magento_Paypal
 "Billing Agreement","Acorde de faturamento",module,Magento_Paypal
 "Created At","Criado em",module,Magento_Paypal
 "Updated At","Atualizado por",module,Magento_Paypal
-"-- Please Select Billing Agreement--","-- Por favor Selecione um Acordo de Faturação --",module,Magento_Paypal
+"-- Please Select Billing Agreement--","-- Por favor, Selecione um Acordo de Cobrança --",module,Magento_Paypal
 "Not sure what PayPal payment method to use? Click","Não tem a certeza qual o método de pagamento PayPal que quer usar? Clique",module,Magento_Paypal
 here,aqui,module,Magento_Paypal
 "to learn more.","para saber mais.",module,Magento_Paypal
@@ -6290,7 +6290,7 @@ Important:,Importante:,module,Magento_Paypal
 "Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Depois de iniciar sessão na sua conta PayPal Payflow Link, navegue até ao menu Service Settings - Hosted Checkout Pages - Set Up e defina as opções listadas abaixo",module,Magento_Paypal
 "Agreement Information","Informação de contrato",module,Magento_Paypal
 "Reference ID:","ID de Referência:",module,Magento_Paypal
-Status:,Estado:,module,Magento_Paypal
+Status:,Status:,module,Magento_Paypal
 Created:,Criado:,module,Magento_Paypal
 Updated:,Atualizado:,module,Magento_Paypal
 "Payment Method:","Forma de pagamento:",module,Magento_Paypal
@@ -6303,11 +6303,11 @@ Create...,Criar...,module,Magento_Paypal
 "Your billing agreement # is:","O seu número de acordo de faturação é:",module,Magento_Paypal
 "Review Order","Review Order",module,Magento_Paypal
 "Please select a shipping method...","Por favor selecione um modo de envio...",module,Magento_Paypal
-"Update Shipping Method","Atualizar Modo de Envio",module,Magento_Paypal
+"Update Shipping Method","Atualizar Métodos de Envio",module,Magento_Paypal
 "Edit Payment Information","Editar Informação do Pagamento",module,Magento_Paypal
 "Items in Your Shopping Cart","Itens no Seu Carrinho de Compras",module,Magento_Paypal
 "Edit Shopping Cart","Editar Carrinho de Compras",module,Magento_Paypal
-"Please update order data to get shipping methods and rates","Por favor atualize os dados da encomenda para obter os modos de envios e taxas",module,Magento_Paypal
+"Please update order data to get shipping methods and rates","Por favor atualize as informações de entrega para obter as formas de envio e taxas",module,Magento_Paypal
 "Checkout with PayPal","Finalizar Compra com PayPal",module,Magento_Paypal
 "Please do not refresh the page until you complete payment.","Por favor não recarregue a página até concluir o pagamento.",module,Magento_Paypal
 "You will be required to enter your payment details after you place an order.","Ser-lhe-á pedido para inserir a sua informação de pagamento depois de confirmar a encomenda.",module,Magento_Paypal
@@ -6353,7 +6353,7 @@ Size,Tamanho,module,Magento_Paypal
 "Checkout Cart Page","Página do Carrinho de Compras",module,Magento_Paypal
 "Basic Settings - PayPal Website Payments Pro","Basic Settings - PayPal Website Payments Pro",module,Magento_Paypal
 "It is recommended to set this value to ""Debit or Credit Card"" per store views.","É recomendado definir este valor para ""Cartão de Débito ou Crédito"" por vista de loja.",module,Magento_Paypal
-"Credit Card Settings","Definições de Cartão de Crédito",module,Magento_Paypal
+"Credit Card Settings","Configurações de Cartão de Crédito",module,Magento_Paypal
 "Allowed Credit Card Types","Permitido tipos de Cartão de Crédito",module,Magento_Paypal
 "3D Secure validation is required for Maestro cards. Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","3D Secure validation is required for Maestro cards. Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.",module,Magento_Paypal
 "Payment Applicable From","Pagamento Aplicável De",module,Magento_Paypal
@@ -6364,7 +6364,7 @@ Size,Tamanho,module,Magento_Paypal
 "If empty, a default value will be used. Custom URL may be provided by CardinalCommerce agreement.","If empty, a default value will be used. Custom URL may be provided by CardinalCommerce agreement.",module,Magento_Paypal
 "PayPal Billing Agreement Settings","Definições de Acordo de Faturação PayPal",module,Magento_Paypal
 "Settlement Report Settings","Definições de Relatórios de Liquidação",module,Magento_Paypal
-"Frontend Experience Settings","Definições de Experiência de Frontend",module,Magento_Paypal
+"Frontend Experience Settings","Configurações de Experiência no Frontend",module,Magento_Paypal
 "Basic Settings - PayPal Express Checkout","Configurações Básicas - PayPal Checkout Rápido",module,Magento_Paypal
 "Website Payments Standard","Website Payments Standard",module,Magento_Paypal
 "Accept credit card and PayPal payments securely.","Accept credit card and PayPal payments securely.",module,Magento_Paypal
@@ -6379,17 +6379,17 @@ Vendor,Fornecedor,module,Magento_Paypal
 "Use Proxy","Usar Proxy",module,Magento_Paypal
 "Proxy Host","Host do Proxy",module,Magento_Paypal
 "Proxy Port","Porta do Proxy",module,Magento_Paypal
-"Basic Settings - PayPal Payflow Pro","Definições Básicas - PayPal Payflow Pro",module,Magento_Paypal
+"Basic Settings - PayPal Payflow Pro","Configurações Básicas - PayPal Payflow Pro",module,Magento_Paypal
 "Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.",module,Magento_Paypal
 "Severe validation removes chargeback liability on merchant.","Severe validation removes chargeback liability on merchant.",module,Magento_Paypal
 "A value is required for live mode. Refer to your CardinalCommerce agreement.","A value is required for live mode. Refer to your CardinalCommerce agreement.",module,Magento_Paypal
 "Payflow Link (Includes Express Checkout)","Link Payflow (Inclui Checkout Express)",module,Magento_Paypal
 "Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site.","Ligue a sua conta de comerciante com um gateway compatível com a norma PCI que permita aos clientes pagar sem deixar o seu site.",module,Magento_Paypal
-"Payflow Link and Express Checkout","Link Payflow e Checkout Express",module,Magento_Paypal
+"Payflow Link and Express Checkout","Payflow Link e Express Checkout",module,Magento_Paypal
 "Email Associated with PayPal Merchant Account (Optional)","Email Associado com a Conta de Comerciante PayPal (Opcional)",module,Magento_Paypal
 "If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Se não tiver múltiplos utilizadores configurados na sua conta, por favor re-introduza os seus dados de Vendedor/Comerciante aqui.",module,Magento_Paypal
-"Enable Payflow Link","Ativar Payflow Link",module,Magento_Paypal
-"Enable Express Checkout","Ativar Finalizar Compra Expresso",module,Magento_Paypal
+"Enable Payflow Link","Habilitar Payflow Link",module,Magento_Paypal
+"Enable Express Checkout","Habilitar o Express Checkout",module,Magento_Paypal
 "<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                         from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
@@ -6401,9 +6401,9 @@ Vendor,Fornecedor,module,Magento_Paypal
                         Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                         The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                         or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.",module,Magento_Paypal
-"Basic Settings - PayPal Payflow Link","Definições Básicas - Payflow Link PayPal",module,Magento_Paypal
+"Basic Settings - PayPal Payflow Link","Configurações Básicas - PayPal Payflow Link",module,Magento_Paypal
 "CVV Entry is Editable","A Entrada CVV é Editável",module,Magento_Paypal
-"Send Email Confirmation","Enviar Confirmação de Email",module,Magento_Paypal
+"Send Email Confirmation","Enviar E-mail de Confirmação",module,Magento_Paypal
 "URL method for Cancel URL and Return URL","Método URL para Cancelar URL e URL de Retorno",module,Magento_Paypal
 "Express Checkout","Express Checkout",module,Magento_Paypal
 "Add PayPal as an additional payment method to your checkout page.","Adicione PayPal como método de pagamento adicional à sua página de checkout.",module,Magento_Paypal
@@ -6451,15 +6451,15 @@ Vendor,Fornecedor,module,Magento_Paypal
 "Allow in Billing Agreement Wizard","Permitir no Assistente de Acordo de Faturação",module,Magento_Paypal
 "SFTP Credentials","Credenciais SFTP",module,Magento_Paypal
 "Custom Endpoint Hostname or IP-Address","Hostname ou Endereço IP do Endpoint Personalizado",module,Magento_Paypal
-"By default it is ""reports.paypal.com"".","O valor pré-definido é ""reports.paypal.com"".",module,Magento_Paypal
+"By default it is ""reports.paypal.com"".","Por padrão é ""reports.paypal.com"".",module,Magento_Paypal
 "Use colon to specify port. For example: ""test.example.com:5224"".","Use dois pontos para especificar o porto. Por exemplo: ""teste.exemplo.com:5224"".",module,Magento_Paypal
 "Custom Path","Caminho Personalizado",module,Magento_Paypal
 "Scheduled Fetching","Obtenção Agendada",module,Magento_Paypal
 "Enable Automatic Fetching","Ativar Obtenção Automática",module,Magento_Paypal
 "PayPal retains reports for 45 days.","O Paypal mantém os relatórios durante 45 dias.",module,Magento_Paypal
 "Time of Day","Hora do Dia",module,Magento_Paypal
-"PayPal Product Logo","Logo do Produto PayPal",module,Magento_Paypal
-"Displays on catalog pages and homepage.","É mostrado nas páginas do catálogo e na página principal.",module,Magento_Paypal
+"PayPal Product Logo","Logo de Produto do PayPal",module,Magento_Paypal
+"Displays on catalog pages and homepage.","Exibir nas páginas do catálogo e homepage.",module,Magento_Paypal
 "PayPal Merchant Pages Style","Estilo das Páginas de Comerciante PayPal",module,Magento_Paypal
 "Page Style","Estilo de página",module,Magento_Paypal
 "Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).",module,Magento_Paypal
@@ -6467,8 +6467,8 @@ Vendor,Fornecedor,module,Magento_Paypal
 "The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.",module,Magento_Paypal
 "Header Background Color","Cor do Fundo do Cabeçalho",module,Magento_Paypal
 "The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.","The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.",module,Magento_Paypal
-"Header Border Color","Cor da Border do Cabeçalho",module,Magento_Paypal
-"2-pixel perimeter around the header space.","Perímetro de 2 píxeis em redor do espaço do cabeçalho.",module,Magento_Paypal
+"Header Border Color","Cor da Borda do Cabeçalho",module,Magento_Paypal
+"2-pixel perimeter around the header space.","Perímetro de 2 pixeis ao redor do espaço do cabeçalho.",module,Magento_Paypal
 "Page Background Color","Cor de Fundo da Página",module,Magento_Paypal
 "The background color for the checkout page around the header and payment form.","The background color for the checkout page around the header and payment form.",module,Magento_Paypal
 "Website Payments Pro Hosted Solution","Solução de Pagamentos do Site Pro Hosted",module,Magento_Paypal
@@ -6516,7 +6516,7 @@ Vendor,Fornecedor,module,Magento_Paypal
 "PayPal Payment Gateways","Gateways de Pagamento PayPal",module,Magento_Paypal
 "Process payments using your own internet merchant account.","Processe os pagamentos usando a sua própria conta de comerciante.",module,Magento_Paypal
 "Payflow Pro (Includes Express Checkout)","Payflow Pro (Inclui Checkout Express)",module,Magento_Paypal
-"Payflow Pro and Express Checkout","Payflow Pro e Checkout Express",module,Magento_Paypal
+"Payflow Pro and Express Checkout","Payflow Pro e Express Checkout",module,Magento_Paypal
 "<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                 <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                                 from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
@@ -7829,7 +7829,7 @@ Comment,Comentar,module,Magento_Sales
 %1,%1,module,Magento_Sales
 Date,Data,module,Magento_Sales
 "Add New Address","Adicionar Novo Endereço",module,Magento_Sales
-"Purchase Date","Purchase Date",module,Magento_Sales
+"Purchase Date","Data da Compra",module,Magento_Sales
 "Bill-to Name","Nome de Cobrança",module,Magento_Sales
 "Ship-to Name","Nome de Entrega",module,Magento_Sales
 "Order Total","Total do Pedido",module,Magento_Sales
@@ -7889,7 +7889,7 @@ Returned,Devolvido,module,Magento_Sales
 "Please select products.","Por favor, selecione o(s) produto(s).",module,Magento_Sales
 Number,Número,module,Magento_Sales
 "Order Date: %1","Data do pedido: %1",module,Magento_Sales
-"Shipping &amp; Handling","Shipping &amp; Handling",module,Magento_Sales
+"Shipping &amp; Handling","Envio &amp; Manuseio",module,Magento_Sales
 "Credit Memos","Memorandos de Crédito",module,Magento_Sales
 Invoices,Faturas,module,Magento_Sales
 "We cannot get the order instance.","Não foi possível obter a instância do pedido.",module,Magento_Sales
@@ -8261,15 +8261,15 @@ Complete,Finalizado,module,Magento_Sales
 "the order confirmation email was sent","foi enviado o e-mail de confirmação do pedido",module,Magento_Sales
 "the order confirmation email is not sent","o e-mail de confirmação do pedido não é enviado",module,Magento_Sales
 "Order Date (%1)","Data do pedido (%1)",module,Magento_Sales
-"Purchased From","Purchased From",module,Magento_Sales
-"Link to the New Order","Link to the New Order",module,Magento_Sales
-"Link to the Previous Order","Link to the Previous Order",module,Magento_Sales
-"Placed from IP","Placed from IP",module,Magento_Sales
+"Purchased From","Comprado de",module,Magento_Sales
+"Link to the New Order","Link para Novo Pedido",module,Magento_Sales
+"Link to the Previous Order","Link para Pedido Anterior",module,Magento_Sales
+"Placed from IP","Efetuado do IP",module,Magento_Sales
 "%1 / %2 rate:","%1 / %2 rate:",module,Magento_Sales
-"Item Status","Item Status",module,Magento_Sales
+"Item Status","Status do Item",module,Magento_Sales
 "Original Price","Preço original",module,Magento_Sales
-"Tax Percent","Tax Percent",module,Magento_Sales
-"Transaction Data","Transaction Data",module,Magento_Sales
+"Tax Percent","Porcentagem de imposto",module,Magento_Sales
+"Transaction Data","Dados da Transação",module,Magento_Sales
 "Parent Transaction ID","Parent Transaction ID",module,Magento_Sales
 "Transaction Type","Tipo de Transação",module,Magento_Sales
 "Is Closed","Está fechado",module,Magento_Sales
@@ -8305,11 +8305,11 @@ Complete,Finalizado,module,Magento_Sales
 "Shipment Comments","Shipment Comments",module,Magento_Sales
 "Gift Options for","Opções de presente para",module,Magento_Sales
 Ok,Ok,module,Magento_Sales
-"Anchor Custom Title","Anchor Custom Title",module,Magento_Sales
+"Anchor Custom Title","Vincular Título Personalizado",module,Magento_Sales
 Phone,Telefone,module,Magento_Sales
 "Default Template","Modelo padrão",module,Magento_Sales
 "Minimum Order Amount","Minimum Order Amount",module,Magento_Sales
-Comma-separated,Comma-separated,module,Magento_Sales
+Comma-separated,"Separados por vírgula",module,Magento_Sales
 "Hide Customer IP","Esconder IP do Cliente",module,Magento_Sales
 "Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.",module,Magento_Sales
 "Checkout Totals Sort Order","Checkout Totals Sort Order",module,Magento_Sales
@@ -8335,14 +8335,14 @@ Comma-separated,Comma-separated,module,Magento_Sales
 "New Order Confirmation Template","New Order Confirmation Template",module,Magento_Sales
 "New Order Confirmation Template for Guest","New Order Confirmation Template for Guest",module,Magento_Sales
 "Send Order Email Copy To","Send Order Email Copy To",module,Magento_Sales
-"Send Order Email Copy Method","Send Order Email Copy Method",module,Magento_Sales
-"Order Comment Email Sender","Order Comment Email Sender",module,Magento_Sales
-"Order Comment Email Template","Order Comment Email Template",module,Magento_Sales
-"Order Comment Email Template for Guest","Order Comment Email Template for Guest",module,Magento_Sales
-"Send Order Comment Email Copy To","Send Order Comment Email Copy To",module,Magento_Sales
-"Send Order Comments Email Copy Method","Send Order Comments Email Copy Method",module,Magento_Sales
-"Invoice Email Sender","Invoice Email Sender",module,Magento_Sales
-"Invoice Email Template","Invoice Email Template",module,Magento_Sales
+"Send Order Email Copy Method","Método de Envio da Cópia do E-mail de Pedido",module,Magento_Sales
+"Order Comment Email Sender","Remetente do Comentário do E-mail de Pedido",module,Magento_Sales
+"Order Comment Email Template","Modelo de E-mail do Comentário de Pedido",module,Magento_Sales
+"Order Comment Email Template for Guest","Modelo de E-mail do Comentário de Pedido para Convidado",module,Magento_Sales
+"Send Order Comment Email Copy To","Enviar Cópia de E-mail do Comentário de Pedido Para",module,Magento_Sales
+"Send Order Comments Email Copy Method","Método de Envio da Cópia do E-mail de Comentário de Pedido",module,Magento_Sales
+"Invoice Email Sender","Remetente do E-mail de Fatura",module,Magento_Sales
+"Invoice Email Template","Modelo do E-mail de Fatura",module,Magento_Sales
 "Invoice Email Template for Guest","Invoice Email Template for Guest",module,Magento_Sales
 "Send Invoice Email Copy To","Send Invoice Email Copy To",module,Magento_Sales
 "Send Invoice Email Copy Method","Send Invoice Email Copy Method",module,Magento_Sales
@@ -8369,28 +8369,28 @@ Shipment,Envio,module,Magento_Sales
 "Send Credit Memo Email Copy Method","Send Credit Memo Email Copy Method",module,Magento_Sales
 "Credit Memo Comment Email Sender","Credit Memo Comment Email Sender",module,Magento_Sales
 "Credit Memo Comment Email Template","Modelo de E-mail de comentário de nota de crédito",module,Magento_Sales
-"Credit Memo Comment Email Template for Guest","Credit Memo Comment Email Template for Guest",module,Magento_Sales
-"Send Credit Memo Comment Email Copy To","Send Credit Memo Comment Email Copy To",module,Magento_Sales
-"Send Credit Memo Comments Email Copy Method","Send Credit Memo Comments Email Copy Method",module,Magento_Sales
+"Credit Memo Comment Email Template for Guest","Modelo de E-mail do Comentário de Reembolso para Convidado",module,Magento_Sales
+"Send Credit Memo Comment Email Copy To","Envie Cópia de E-mail do Comentário de Reembolso Para",module,Magento_Sales
+"Send Credit Memo Comments Email Copy Method","Método de Envio da Cópia do E-mail de Comentário de Reembolso",module,Magento_Sales
 "PDF Print-outs","Impressos PDF",module,Magento_Sales
 "Display Order ID in Header","Exibir ID do pedido no cabeçalho",module,Magento_Sales
-"Orders and Returns Search Form","Orders and Returns Search Form",module,Magento_Sales
-"PDF Credit Memos","PDF Credit Memos",module,Magento_Sales
+"Orders and Returns Search Form","Formulário de Pesquisa de Pedidos e Devoluções",module,Magento_Sales
+"PDF Credit Memos","PDF de Reembolsos",module,Magento_Sales
 "PDF Invoices","Faturas PDF",module,Magento_Sales
 "Invoice Date","Data da factura",module,Magento_Sales
 "ZIP/Post Code","Código postal / CEP",module,Magento_Sales
 "Signed-up Point","Signed-up Point",module,Magento_Sales
 order-header,order-header,module,Magento_Sales
 "New Order RSS","RSS de novos pedidos",module,Magento_Sales
-"Print Invoices","Print Invoices",module,Magento_Sales
-"Print Packing Slips","Print Packing Slips",module,Magento_Sales
-"Print Credit Memos","Print Credit Memos",module,Magento_Sales
+"Print Invoices","Imprimir Faturas",module,Magento_Sales
+"Print Packing Slips","Imprimir Documento de Envio",module,Magento_Sales
+"Print Credit Memos","Imprimir Reembolsos",module,Magento_Sales
 "Print All","Imprimir tudo",module,Magento_Sales
-"Print Shipping Labels","Print Shipping Labels",module,Magento_Sales
+"Print Shipping Labels","Imprimir Etiqueta de Envio",module,Magento_Sales
 "Ship Date","Data de envio",module,Magento_Sales
 "Total Quantity","Quantidade total",module,Magento_Sales
-"Default Status","Default Status",module,Magento_Sales
-"State Code and Title","State Code and Title",module,Magento_Sales
+"Default Status","Status Padrão",module,Magento_Sales
+"State Code and Title","Título e Código de Status",module,Magento_Sales
 "PDF Packing Slips","Folhas de Embalagem em PDF",module,Magento_Sales
 "Status can't be unassigned, because it is used by existing order(s).","O status não pode ser atribuído, porque ele é usado por ordens existentes).",module,Magento_Sales
 Operations,Operações,module,Magento_Sales
@@ -8399,7 +8399,7 @@ Operations,Operações,module,Magento_Sales
 "Pending Payment Order Lifetime (minutes)","Pending Payment Order Lifetime (minutes)",module,Magento_Sales
 "Asynchronous sending","Asynchronous sending",module,Magento_Sales
 "Grid Settings","Configurações de grade",module,Magento_Sales
-"Asynchronous indexing","Asynchronous indexing",module,Magento_Sales
+"Asynchronous indexing","Indexação assíncrona",module,Magento_Sales
 "Visible On Storefront","Visível na loja",module,Magento_Sales
 "Please select a customer","Por favor selecione um cliente",module,Magento_Sales
 Orders,Pedidos,module,Magento_SalesArchive
@@ -8800,8 +8800,8 @@ Explanation,Explicação,module,Magento_Shipping
 Carrier,Transportadora,module,Magento_Shipping
 Number,Número,module,Magento_Shipping
 "Items in the Package","Itens do pacote",module,Magento_Shipping
-"Shipping and Tracking Information","Shipping and Tracking Information",module,Magento_Shipping
-"Track this shipment","Track this shipment",module,Magento_Shipping
+"Shipping and Tracking Information","Informações de Entrega e Rastreio",module,Magento_Shipping
+"Track this shipment","Rastrear esta entrega",module,Magento_Shipping
 Ship,Enviar,module,Magento_Shipping
 Shipments,Postagens,module,Magento_Shipping
 "Order # %1","Pedido #%1",module,Magento_Shipping
@@ -8812,8 +8812,8 @@ Shipments,Postagens,module,Magento_Shipping
 "Total Shipping Charges","Frete total",module,Magento_Shipping
 "Append Comments","Acrescentar comentários",module,Magento_Shipping
 "The order was placed using %1.","O pedido foi realizado usando %1.",module,Magento_Shipping
-"No shipping information available","No shipping information available",module,Magento_Shipping
-"Items Shipped","Items Shipped",module,Magento_Shipping
+"No shipping information available","Nenhuma informações de entrega esta disponível",module,Magento_Shipping
+"Items Shipped","Itens enviados",module,Magento_Shipping
 "Qty Shipped","Quantidade enviada",module,Magento_Shipping
 "New Shipment for Order #%1","Nova Remessa para o Pedido #%1",module,Magento_Shipping
 "Submit Shipment","Enviar comentário",module,Magento_Shipping
@@ -8864,16 +8864,16 @@ Live,Publicado,module,Magento_Shipping
 "USPS domestic shipments don't use package types.","Os envios domésticos USPS não usam tipo de pacotes.",module,Magento_Shipping
 "Shipping &amp; Handling Information","Informações de Transporte e Manuseio",module,Magento_Shipping
 "Track Order","Rastrear Pedido",module,Magento_Shipping
-"Shipment History","Shipment History",module,Magento_Shipping
-"Print All Shipments","Print All Shipments",module,Magento_Shipping
-"Shipment #","Shipment #",module,Magento_Shipping
-"Print Shipment","Print Shipment",module,Magento_Shipping
-"Tracking Number(s):","Tracking Number(s):",module,Magento_Shipping
-"Tracking Number:","Tracking Number:",module,Magento_Shipping
+"Shipment History","Histórico da Entrega",module,Magento_Shipping
+"Print All Shipments","Imprimir Todas as Entregas",module,Magento_Shipping
+"Shipment #","Entrega #",module,Magento_Shipping
+"Print Shipment","Imprimir Entrega",module,Magento_Shipping
+"Tracking Number(s):","Número(s) de rastreamento:",module,Magento_Shipping
+"Tracking Number:","Número de rastreamento:",module,Magento_Shipping
 Carrier:,Transportadora:,module,Magento_Shipping
 Error:,Erro:,module,Magento_Shipping
 "Tracking information is currently not available. Please","Informações de rastreamento atualmente não está disponível. Por favor",module,Magento_Shipping
-"contact us","contact us",module,Magento_Shipping
+"contact us","fale conosco",module,Magento_Shipping
 "for more information or","para obter mais informações ou",module,Magento_Shipping
 "email us at","envie e-mail para",module,Magento_Shipping
 Info:,Info:,module,Magento_Shipping
@@ -8888,11 +8888,11 @@ Weight:,Peso:,module,Magento_Shipping
 "There is no tracking available for this shipment.","Não há nenhum rastreamento disponível para esta expedição.",module,Magento_Shipping
 "There is no tracking available.","Não há nenhum rastreamento disponível.",module,Magento_Shipping
 "ZIP/Postal Code","CEP/Código Postal",module,Magento_Shipping
-"Street Address Line 2","Street Address Line 2",module,Magento_Shipping
+"Street Address Line 2","Endereço 2",module,Magento_Shipping
 "Shipping Settings","Detalhes do Envio",module,Magento_Shipping
 Origin,Origem,module,Magento_Shipping
-"Shipping Policy Parameters","Shipping Policy Parameters",module,Magento_Shipping
-"Apply custom Shipping Policy","Apply custom Shipping Policy",module,Magento_Shipping
+"Shipping Policy Parameters","Parâmetros da Política de Entrega",module,Magento_Shipping
+"Apply custom Shipping Policy","Aplicar Política de Entrega Personalizada",module,Magento_Shipping
 All,Todos,module,Magento_Sitemap
 None,Nenhum,module,Magento_Sitemap
 ID,ID,module,Magento_Sitemap
@@ -9355,12 +9355,12 @@ Manage,Gerenciar,module,Magento_Theme
 "JS Editor","Editor de JS",module,Magento_Theme
 "Allowed file types *.js.","Tipos de arquivos permitidos *.js.",module,Magento_Theme
 "We cannot find theme ""%1"".","Não conseguimos encontrar o tema ""%1"".",module,Magento_Theme
-"We cannot find the theme.","Não conseguimos encontrar o tema.",module,Magento_Theme
+"We cannot find the theme.","Não foi possível localizar o tema.",module,Magento_Theme
 "Theme isn't editable.","Tema não é editável.",module,Magento_Theme
 "You saved the theme.","Você salvou o tema.",module,Magento_Theme
 "You deleted the theme.","Você excluiu o tema.",module,Magento_Theme
-"We cannot delete the theme.","Não conseguimos apagar o tema.",module,Magento_Theme
-"We cannot find a theme with id ""%1"".","Não conseguimos encontrar o tema com id ""%1"".",module,Magento_Theme
+"We cannot delete the theme.","Não foi possível excluir o tema.",module,Magento_Theme
+"We cannot find a theme with id ""%1"".","Não conseguimos localizar o tema com id ""%1"".",module,Magento_Theme
 "We cannot find file","Não conseguimos encontrar arquivo",module,Magento_Theme
 "File not found: ""%1"".","Arquivo não encontrado: ""%1"".",module,Magento_Theme
 "The CSS file must be less than %1M.","O ficheiro CSS deve ter dimensão inferior a %1M.",module,Magento_Theme

@@ -1453,8 +1453,8 @@ Availability:,Disponibilidade:,module,Magento_Bundle
 "No options of this product are available.","Não há opções deste produto estão disponíveis.",module,Magento_Bundle
 "Gift Message","Mensagem do presente",module,Magento_Bundle
 Message:,Mensagem:,module,Magento_Bundle
-"Excl. Tax:","Excl. Tax:",module,Magento_Bundle
-"Incl. Tax:","Incl. Tax:",module,Magento_Bundle
+"Excl. Tax:","Excl. Imposto:",module,Magento_Bundle
+"Incl. Tax:","Incl. Imposto:",module,Magento_Bundle
 "Total Incl. Tax","Total de impostos incluídos",module,Magento_Bundle
 "Add Products to New Option","Adicionar Produtos à Nova Opção",module,Magento_Bundle
 "Add Products to Option ""%1""","Adicionar Produtos à Opção ""%1""",module,Magento_Bundle
@@ -1951,7 +1951,7 @@ Backorders,"Pedidos pendentes",module,Magento_Catalog
 "and above","e acima",module,Magento_Catalog
 "Delete Tier","Excluir Camada",module,Magento_Catalog
 "Product In Websites","Produto em Websites",module,Magento_Catalog
-"Items that you don't want to show in the catalog or search results should have status 'Disabled' in the desired store.","Items that you don't want to show in the catalog or search results should have status 'Disabled' in the desired store.",module,Magento_Catalog
+"Items that you don't want to show in the catalog or search results should have status 'Disabled' in the desired store.","Produtos que você não quer exibir no catálogo ou nos resultados de busca precisam ter o status 'Desabilitado' nas opções da loja.",module,Magento_Catalog
 "(Copy data from: %1)","(Copiar dados de: %1)",module,Magento_Catalog
 "Remove Image","Remover imagem",module,Magento_Catalog
 "Alt Text","Texto Alternativo",module,Magento_Catalog
@@ -2137,16 +2137,15 @@ Image,Imagem,module,Magento_Catalog
 "Active From","Ativo de",module,Magento_Catalog
 "Active To","Ativo até",module,Magento_Catalog
 "Page Layout","Layout da página",module,Magento_Catalog
-"Custom Layout Update","Custom Layout Update",module,Magento_Catalog
+"Custom Layout Update","Atualização de Layout Personalizado",module,Magento_Catalog
 Name,Nome,module,Magento_Catalog
 "Product Details","Detalhes do produto",module,Magento_Catalog
 Configurations,Configurações,module,Magento_Catalog
 "Show / Hide Editor","Mostrar / Esconder Editor",module,Magento_Catalog
-"Is this downloadable Product?","Is this downloadable Product?",module,Magento_Catalog
+"Is this downloadable Product?","Este é um produto para download?",module,Magento_Catalog
 "Configurable products allow customers to choose options (Ex: shirt color).
-You need to create a simple product for each configuration (Ex: a product for each color).","Configurable products allow customers to choose options (Ex: shirt color).
-You need to create a simple product for each configuration (Ex: a product for each color).",module,Magento_Catalog
-"Create Configurations","Create Configurations",module,Magento_Catalog
+You need to create a simple product for each configuration (Ex: a product for each color).","Os produtos configuráveis permitem aos clientes escolher opções (Ex: cor de uma camiseta). Você precisa criar um produto simples para cada configuração (Ex: um produto para cada cor).",module,Magento_Catalog
+"Create Configurations","Criar Configurações",module,Magento_Catalog
 "Edit Configurations","Editar Configurações",module,Magento_Catalog
 "Display Settings","Configurações de exibição",module,Magento_Catalog
 "Include in Navigation Menu","Incluir no Menu de navegação",module,Magento_Catalog
@@ -2160,14 +2159,14 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Apply To Products","Aplicar aos produtos",module,Magento_Catalog
 "Active From","Ativo de",module,Magento_Catalog
 "Active To","Ativo até",module,Magento_Catalog
-"Custom Layout Update","Custom Layout Update",module,Magento_Catalog
-"Default View","Default View",module,Magento_Catalog
-Columns,Columns,module,Magento_Catalog
+"Custom Layout Update","Atualização de Layout Personalizado",module,Magento_Catalog
+"Default View","Exibição padrão",module,Magento_Catalog
+Columns,Colunas,module,Magento_Catalog
 Filters,Filtros,module,Magento_Catalog
 Storefront,"Frente de Loja",module,Magento_Catalog
-"Base Image","Base Image",module,Magento_Catalog
-"Small Image","Small Image",module,Magento_Catalog
-"Swatch Image","Swatch Image",module,Magento_Catalog
+"Base Image","Imagem Base",module,Magento_Catalog
+"Small Image","Imagem Miniatura",module,Magento_Catalog
+"Swatch Image","Imagem de amostra",module,Magento_Catalog
 "Out-of-Stock Threshold","Indisponível no estoque",module,Magento_Catalog
 "Does this have a weight?","Este artigo tem um peso associado?",module,Magento_Catalog
 "Add Price","Adicionar Preço",module,Magento_Catalog
@@ -6834,7 +6833,7 @@ Canceled,Cancelado,module,Magento_Reports
 Day,Dia,module,Magento_Reports
 Month,Mês,module,Magento_Reports
 Year,Ano,module,Magento_Reports
-"Search Query","Search Query",module,Magento_Reports
+"Search Query","Termos de Pesquisa",module,Magento_Reports
 "Search Terms","Termos de Pesquisa",module,Magento_Reports
 "Add to Wishlist","Adicionar à Lista de Desejos",module,Magento_Reports
 "Add to Compare","Adicionar para Comparar",module,Magento_Reports
@@ -6846,7 +6845,7 @@ Updated,Atualizado,module,Magento_Reports
 Reports,Relatórios,module,Magento_Reports
 Details,Detalhes,module,Magento_Reports
 Unlimited,Ilimitado,module,Magento_Reports
-Fulfilled,Fulfilled,module,Magento_Reports
+Fulfilled,Preenchido,module,Magento_Reports
 Filter,Filtro,module,Magento_Reports
 Link,Link,module,Magento_Reports
 Report,Relatório,module,Magento_Reports
@@ -6867,7 +6866,7 @@ Purchases,Compras,module,Magento_Reports
 CSV,CSV,module,Magento_Reports
 "Excel XML","Excel, XML",module,Magento_Reports
 Viewed,Visualizado,module,Magento_Reports
-Purchased,Purchased,module,Magento_Reports
+Purchased,Comprado,module,Magento_Reports
 "Low stock","Estoque Mínimo",module,Magento_Reports
 "Products Ordered","Produtos ordenados",module,Magento_Reports
 "Most Viewed","Mais visitados",module,Magento_Reports
@@ -6994,22 +6993,22 @@ Hits,Acessos,module,Magento_Reports
 "This report uses timezone configuration data. Be sure to refresh lifetime statistics any time you change store timezone.","This report uses timezone configuration data. Be sure to refresh lifetime statistics any time you change store timezone.",module,Magento_Reports
 "Average (Approved)","Média (Aprovada)",module,Magento_Reports
 "Last Review","Última revisão",module,Magento_Reports
-"Order Created Date","Order Created Date",module,Magento_Reports
-"Order Updated Date","Order Updated Date",module,Magento_Reports
-"The Order Updated Date report is displayed in real-time, and does not need to be refreshed.","The Order Updated Date report is displayed in real-time, and does not need to be refreshed.",module,Magento_Reports
+"Order Created Date","Data de Criação do Pedido",module,Magento_Reports
+"Order Updated Date","Data de Atualização de Pedido",module,Magento_Reports
+"The Order Updated Date report is displayed in real-time, and does not need to be refreshed.","O relatório de Atualização de Pedido é criado em tempo real e não precisa de ser atualizado.",module,Magento_Reports
 "Last Invoice Created Date","Data de Criação da Última Fatura",module,Magento_Reports
 "Last Credit Memo Created Date","Data de Criação da Última Nota de Crédito",module,Magento_Reports
 "First Invoice Created Date","Data de Criação da Primeira Fatura",module,Magento_Reports
 "Refresh Lifetime Statistics","Recarregar Estatísticas Desde Sempre",module,Magento_Reports
-"Are you sure you want to refresh lifetime statistics? There can be performance impact during this operation.","Are you sure you want to refresh lifetime statistics? There can be performance impact during this operation.",module,Magento_Reports
+"Are you sure you want to refresh lifetime statistics? There can be performance impact during this operation.","Você tem certeza de que deseja atualizar estatísticas de tempo de vida? Pode haver impacto no desempenho da sua loja durante esta operação.",module,Magento_Reports
 "Refresh Statistics for the Last Day","Recarregar Estatísticas para o Último Dia",module,Magento_Reports
-"Are you sure you want to refresh statistics for last day?","Are you sure you want to refresh statistics for last day?",module,Magento_Reports
+"Are you sure you want to refresh statistics for last day?","Você tem certeza que deseja atualizar as estatísticas para o último dia?",module,Magento_Reports
 undefined,"Não definido",module,Magento_Reports
 "Products in Cart","Produtos no Carrinho",module,Magento_Reports
 "By Customers","Por Clientes",module,Magento_Reports
 "By Products","Por Produtos",module,Magento_Reports
 Refunds,Reembolsos,module,Magento_Reports
-"PayPal Settlement","PayPal Settlement",module,Magento_Reports
+"PayPal Settlement","Liquidação PayPal",module,Magento_Reports
 "Order Count","Contagem de Pedidos",module,Magento_Reports
 Bestseller,"Mais Vendidos",module,Magento_Reports
 "Date Used","Data Utilizada",module,Magento_Reports
@@ -8948,13 +8947,13 @@ Yearly,Anual,module,Magento_Sitemap
 "CMS Pages Options","Opções de Páginas CMS",module,Magento_Sitemap
 "Generation Settings","Configurações de geração",module,Magento_Sitemap
 "Sitemap File Limits","Limites de arquivo do mapa do site",module,Magento_Sitemap
-"Maximum No of URLs Per File","Numero Máximo de URLs por ficheiro",module,Magento_Sitemap
+"Maximum No of URLs Per File","Numero Máximo de URLs por Arquivo",module,Magento_Sitemap
 "Maximum File Size","Tamanho máximo do arquivo",module,Magento_Sitemap
 "File size in bytes.","Tamanho do arquivo em bytes.",module,Magento_Sitemap
-"Search Engine Submission Settings","Configurações de envio do motor de busca",module,Magento_Sitemap
+"Search Engine Submission Settings","Configurações de Envio da Ferramenta de Busca",module,Magento_Sitemap
 "Enable Submission to Robots.txt","Permitir a Submissão de Robots.txt",module,Magento_Sitemap
 "Link for Google","Link para o Google",module,Magento_Sitemap
-"Last Generated","Última gerado",module,Magento_Sitemap
+"Last Generated","Última geração em",module,Magento_Sitemap
 ID,ID,module,Magento_Solr
 No,Não,module,Magento_Solr
 Action,Ação,module,Magento_Solr

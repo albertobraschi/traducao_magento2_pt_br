@@ -522,7 +522,7 @@ Order,Pedido,module,Magento_Backend
 "Please try to sign out and sign in again.","Por favor, saia do sistema e entre novamente.",module,Magento_Backend
 "If you continue to receive this message, please contact the store owner.","Se você continuar a receber esta mensagem, por favor, entre em contato com o dono da loja.",module,Magento_Backend
 "You need more permissions to access this.","Você precisa mais permissões para acessar isso.",module,Magento_Backend
-"Welcome, please sign in","Bem-vindo, cadastre-se",module,Magento_Backend
+"Welcome, please sign in","Bem-vindo, por favor acesse",module,Magento_Backend
 Username,"Nome de Usuário",module,Magento_Backend
 "user name","nome de usuário",module,Magento_Backend
 Password,Senha,module,Magento_Backend
@@ -5690,7 +5690,7 @@ Active,Ativo,module,Magento_Integration
 Reset,Reiniciar,module,Magento_Integration
 "Integration with name '%1' exists.","Integração com o nome '%1' existe.",module,Magento_Integration
 "Integration with ID '%1' does not exist.","Integração com o  ID '%1' não existe.",module,Magento_Integration
-"One or more <a href=""%1"">integrations</a> have been reset because of a change to their xml configs.","Uma ou mais <a href=""%1"">integrações</a> foram repostas devido a um erro nas suas configurações xml.",module,Magento_Integration
+"One or more <a href=""%1"">integrations</a> have been reset because of a change to their xml configs.","Uma ou mais <a href=""%1"">integrações</a> foram redefinidas devido a mudanças nas suas configurações xml.",module,Magento_Integration
 "Invalid Callback URL","URL de Callback inválido",module,Magento_Integration
 "Invalid Rejected Callback URL","URL de Callback Inválido Rejeitado",module,Magento_Integration
 "Incorrect timestamp value in the oauth_timestamp parameter","O valor do timestamp no parâmetro oauth_timestamp está incorreto",module,Magento_Integration
@@ -10178,14 +10178,14 @@ Enabled,Habilitado,module,Magento_Sitemap
 "Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo de e-mail escolhido baseado no tema ""fallback"" quando a opção ""Padrão"" é selecionada.",module,Magento_Sitemap
 "Start Time","Hora de Início",module,Magento_Sitemap
 "Sitemap File Limits","Limites de arquivo do mapa do site",module,Magento_Sitemap
-"Maximum No of URLs Per File","Numero Máximo de URLs por ficheiro",module,Magento_Sitemap
+"Maximum No of URLs Per File","Numero Máximo de URLs por Arquivo",module,Magento_Sitemap
 "Maximum File Size","Tamanho máximo do arquivo",module,Magento_Sitemap
 "File size in bytes.","Tamanho do arquivo em bytes.",module,Magento_Sitemap
-"Search Engine Submission Settings","Configurações de envio do motor de busca",module,Magento_Sitemap
+"Search Engine Submission Settings","Configurações de Envio da Ferramenta de Busca",module,Magento_Sitemap
 "Enable Submission to Robots.txt","Permitir a Submissão de Robots.txt",module,Magento_Sitemap
 ID,ID,module,Magento_Sitemap
 "Link for Google","Link para o Google",module,Magento_Sitemap
-"Last Generated","Última gerado",module,Magento_Sitemap
+"Last Generated","Última geração em",module,Magento_Sitemap
 Action,Ação,module,Magento_Sitemap
 "This search no longer exists.","Esta pesquisa não existe mais.",module,Magento_Solr
 "We were unable to perform the search because of a search engine misconfiguration.","Fomos incapazes de realizar a pesquisa devido um erro de configuração do motor de pesquisa.",module,Magento_Solr
@@ -10885,12 +10885,12 @@ Rate,Avaliação,module,Magento_TaxImportExport
 CSV,CSV,module,Magento_TaxImportExport
 "Excel XML","Excel, XML",module,Magento_TaxImportExport
 Back,Voltar,module,Magento_Theme
-"Save and Continue",todos,module,Magento_Theme
+"Save and Continue","Salvar e Continuar",module,Magento_Theme
 "Save Configuration","Salvar configuração",module,Magento_Theme
 %1,%1,module,Magento_Theme
 Default,Padrão,module,Magento_Theme
 Themes,Temas,module,Magento_Theme
-"Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_Theme
+"Save and Continue Edit","Salvar e Continuar Edição",module,Magento_Theme
 "Are you sure you want to delete this theme?","Você tem certeza que deseja excluir este tema?",module,Magento_Theme
 "Theme: %1","Tema: %1",module,Magento_Theme
 "New Theme","Novo tema",module,Magento_Theme
@@ -10966,11 +10966,11 @@ label,rótulo,module,Magento_Theme
 Copy,Copiar,module,Magento_Theme
 "Theme id should be set","O id do tema deve ser configurado",module,Magento_Theme
 "Circular-reference in theme inheritance detected for ""%1""","Referência circular na herança do tema detetada para ""%1""",module,Magento_Theme
-"The CSS file must be less than %1M.","O ficheiro CSS deve ter dimensão inferior a %1M.",module,Magento_Theme
-"The JS file must be less than %1M.","O ficheiro JS deve ter dimensão inferior a %1M.",module,Magento_Theme
+"The CSS file must be less than %1M.","O arquivo CSS deve ser menor que %1M.",module,Magento_Theme
+"The JS file must be less than %1M.","O arquivo JS deve ser menor que %1M.",module,Magento_Theme
 "We can't upload the file right now.","Não é possível enviar o arquivo neste momento.",module,Magento_Theme
-"Use only standard alphanumeric, dashes and underscores.","Use apenas caracteres alfanuméricos, hífens e underscores.",module,Magento_Theme
-"We found a directory with the same name.","Encontrámos uma diretoria com o mesmo nome.",module,Magento_Theme
+"Use only standard alphanumeric, dashes and underscores.","Use apenas o padrão alfanuméricos, hífens e sublinhados.",module,Magento_Theme
+"We found a directory with the same name.","Encontramos um diretório com o mesmo nome.",module,Magento_Theme
 "We cannot find a directory with this name.","Não conseguimos encontrar um diretório com este nome.",module,Magento_Theme
 "We can't delete root directory %1 right now.","Não é possível excluir o diretório raiz %1 neste momento.",module,Magento_Theme
 "Theme isn't deletable.","O tema não é removível.",module,Magento_Theme
@@ -10990,13 +10990,13 @@ Remove,Remover,module,Magento_Theme
 "Welcome, %1!","Bem-vindo, %1!",module,Magento_Theme
 "Toggle Nav","Alternar Nav",module,Magento_Theme
 "JavaScript seems to be disabled in your browser.","O JavaScript parece estar desabilitado no seu navegador.",module,Magento_Theme
-"For the best experience on our site, be sure to turn on Javascript in your browser.","Para usufruir da melhor experiência no nosso site, certifique-se que ativa o JavaScript no seu browser.",module,Magento_Theme
+"For the best experience on our site, be sure to turn on Javascript in your browser.","Para ter uma melhor experiência em nosso site, certifique-se de ativar o javascript em seu navegador.",module,Magento_Theme
 "Local Storage seems to be disabled in your browser.","O Armazenamento Local parece estar desativado no seu browser.",module,Magento_Theme
 "For the best experience on our site, be sure to turn on Local Storage in your browser.","Para usufruir da melhor experiência no nosso site, certifique-se que ativa o Armazenamento Local no seu browser.",module,Magento_Theme
 "This is demo store. No orders will be fulfilled.","Esta é uma loja de demonstração. Nenhuma encomenda será concretizada.",module,Magento_Theme
 "Items %1 to %2 of %3 total","Itens %1 a %2 do total de %3",module,Magento_Theme
 "%1 Item","%1 Item",module,Magento_Theme
-"%1 Item(s)","%1 Item(s)",module,Magento_Theme
+"%1 Item(s)","%1 Item (ns)",module,Magento_Theme
 Page,Página,module,Magento_Theme
 Previous,Anterior,module,Magento_Theme
 "You're currently reading page","Você esta lendo a pagina",module,Magento_Theme
@@ -11857,35 +11857,35 @@ Tile,"Lado a Lado",module,Magento_VisualMerchandiser
 "Next page","Próxima página",module,Magento_VisualMerchandiser
 Draggable,Arrastável,module,Magento_VisualMerchandiser
 Close,Fechar,module,Magento_VisualMerchandiser
-"Product image","Product image",module,Magento_VisualMerchandiser
-"You can create a rule only to the existing categories.","You can create a rule only to the existing categories.",module,Magento_VisualMerchandiser
-"Only products matched by rule will be present in the category after save. Unmatched products and manual sorting will be removed from the category.","Only products matched by rule will be present in the category after save. Unmatched products and manual sorting will be removed from the category.",module,Magento_VisualMerchandiser
-Attribute,Attribute,module,Magento_VisualMerchandiser
-Operator,Operator,module,Magento_VisualMerchandiser
+"Product image","Imagem do produto",module,Magento_VisualMerchandiser
+"You can create a rule only to the existing categories.","Você pode criar uma regra apenas para as categorias existentes.",module,Magento_VisualMerchandiser
+"Only products matched by rule will be present in the category after save. Unmatched products and manual sorting will be removed from the category.","Somente os produtos que corresponde à regra estará disponível na categoria após salvar. Produtos que não coincidem e classificados manualmente serão removidos da categoria.",module,Magento_VisualMerchandiser
+Attribute,Atributo,module,Magento_VisualMerchandiser
+Operator,Operador,module,Magento_VisualMerchandiser
 Value,Valor,module,Magento_VisualMerchandiser
-Logic,Logic,module,Magento_VisualMerchandiser
-"Add Condition","Add Condition",module,Magento_VisualMerchandiser
+Logic,Lógica,module,Magento_VisualMerchandiser
+"Add Condition","Adicionar condição",module,Magento_VisualMerchandiser
 Delete,Excluir,module,Magento_VisualMerchandiser
-"Match products by rule","Match products by rule",module,Magento_VisualMerchandiser
+"Match products by rule","Produtos que coincidem com a regra",module,Magento_VisualMerchandiser
 Yes,Sim,module,Magento_VisualMerchandiser
 No,Não,module,Magento_VisualMerchandiser
 "Add Products","Adicionar Produtos",module,Magento_VisualMerchandiser
-"Save and Close","Save and Close",module,Magento_VisualMerchandiser
-On,On,module,Magento_VisualMerchandiser
-Off,Off,module,Magento_VisualMerchandiser
-"Visual Merchandiser Options","Visual Merchandiser Options",module,Magento_VisualMerchandiser
-"Visual Merchandiser","Visual Merchandiser",module,Magento_VisualMerchandiser
+"Save and Close","Salvar e Fechar",module,Magento_VisualMerchandiser
+On,Ativado,module,Magento_VisualMerchandiser
+Off,Desligado,module,Magento_VisualMerchandiser
+"Visual Merchandiser Options","Opções de Visual Merchandising",module,Magento_VisualMerchandiser
+"Visual Merchandiser","Visual Merchandising",module,Magento_VisualMerchandiser
 "General Options","Opções gerais",module,Magento_VisualMerchandiser
-"Visible Attributes for Category Rules","Visible Attributes for Category Rules",module,Magento_VisualMerchandiser
-"Additional attributes usable in category rules","Additional attributes usable in category rules",module,Magento_VisualMerchandiser
-"Minimum Stock Threshold","Minimum Stock Threshold",module,Magento_VisualMerchandiser
-"Determines which products are 'low stock'","Determines which products are 'low stock'",module,Magento_VisualMerchandiser
-"Color Attribute Code","Color Attribute Code",module,Magento_VisualMerchandiser
-"Color Order","Color Order",module,Magento_VisualMerchandiser
-"Each color being on a separate row.","Each color being on a separate row.",module,Magento_VisualMerchandiser
-Sort,Sort,module,Magento_VisualMerchandiser
-"Automatic Sorting","Automatic Sorting",module,Magento_VisualMerchandiser
-"Sort order","Sort order",module,Magento_VisualMerchandiser
+"Visible Attributes for Category Rules","Atributos visíveis para Regras de Categoria",module,Magento_VisualMerchandiser
+"Additional attributes usable in category rules","Atributos adicionais usados em regras de categoria",module,Magento_VisualMerchandiser
+"Minimum Stock Threshold","Limite mínimo de estoque",module,Magento_VisualMerchandiser
+"Determines which products are 'low stock'","Determina quais os produtos com 'estoque baixo'",module,Magento_VisualMerchandiser
+"Color Attribute Code","Código do Atributo de Cor",module,Magento_VisualMerchandiser
+"Color Order","Ordem das Cores",module,Magento_VisualMerchandiser
+"Each color being on a separate row.","Cada cor em uma linha separada.",module,Magento_VisualMerchandiser
+Sort,Ordenação,module,Magento_VisualMerchandiser
+"Automatic Sorting","Ordenação Automática",module,Magento_VisualMerchandiser
+"Sort order","Ordem de classificação",module,Magento_VisualMerchandiser
 Thumbnail,Miniatura,module,Magento_VisualMerchandiser
 Name,Nome,module,Magento_VisualMerchandiser
 Price,Preço,module,Magento_VisualMerchandiser

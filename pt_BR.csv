@@ -937,7 +937,7 @@ Extensions,Extensões,module,Magento_Backend
 "Last Search Terms","Últimas palavras pesquisadas",module,Magento_Backend
 "Top Search Terms","Palavras mais pesquisadas",module,Magento_Backend
 "Reload Data","Recarregar dados",module,Magento_Backend
-"Welcome, please sign in","Bem-vindo, cadastre-se",module,Magento_Backend
+"Welcome, please sign in","Bem-vindo, por favor acesse",module,Magento_Backend
 "Sign in",Entrar,module,Magento_Backend
 Cancel,Cancelar,module,Magento_Backup
 Action,Ação,module,Magento_Backup
@@ -9281,7 +9281,7 @@ Close,Fechar,module,Magento_Theme
 "Delete File","Excluir Arquivo",module,Magento_Theme
 "-- Please Select --","-- Selecione uma opção --",module,Magento_Theme
 General,Geral,module,Magento_Theme
-"Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_Theme
+"Save and Continue Edit","Salvar e Continuar Edição",module,Magento_Theme
 "About the calendar","Sobre o calendário",module,Magento_Theme
 "Go Today",Hoje,module,Magento_Theme
 Previous,Anterior,module,Magento_Theme
@@ -9296,7 +9296,7 @@ label,rótulo,module,Magento_Theme
 Empty,Vazio,module,Magento_Theme
 "Close Window","Fechar Janela",module,Magento_Theme
 "%1 Item","%1 Item",module,Magento_Theme
-"%1 Item(s)","%1 Item(s)",module,Magento_Theme
+"%1 Item(s)","%1 Item (ns)",module,Magento_Theme
 Show,Mostrar,module,Magento_Theme
 "Media Storage","Armazenamento de Mídia",module,Magento_Theme
 "Delete Folder","Apagar Pasta",module,Magento_Theme
@@ -9362,10 +9362,10 @@ Manage,Gerenciar,module,Magento_Theme
 "We cannot find a theme with id ""%1"".","Não conseguimos localizar o tema com id ""%1"".",module,Magento_Theme
 "We cannot find file","Não conseguimos encontrar arquivo",module,Magento_Theme
 "File not found: ""%1"".","Arquivo não encontrado: ""%1"".",module,Magento_Theme
-"The CSS file must be less than %1M.","O ficheiro CSS deve ter dimensão inferior a %1M.",module,Magento_Theme
-"The JS file must be less than %1M.","O ficheiro JS deve ter dimensão inferior a %1M.",module,Magento_Theme
-"Use only standard alphanumeric, dashes and underscores.","Use apenas caracteres alfanuméricos, hífens e underscores.",module,Magento_Theme
-"We found a directory with the same name.","Encontrámos uma diretoria com o mesmo nome.",module,Magento_Theme
+"The CSS file must be less than %1M.","O arquivo CSS deve ser menor que %1M.",module,Magento_Theme
+"The JS file must be less than %1M.","O arquivo JS deve ser menor que %1M.",module,Magento_Theme
+"Use only standard alphanumeric, dashes and underscores.","Use apenas o padrão alfanuméricos, hífens e sublinhados.",module,Magento_Theme
+"We found a directory with the same name.","Encontramos um diretório com o mesmo nome.",module,Magento_Theme
 "We cannot find a directory with this name.","Não conseguimos encontrar um diretório com este nome.",module,Magento_Theme
 "We found no files.","Não encontramos nenhum arquivo.",module,Magento_Theme
 "Help Us to Keep Magento Healthy","Ajude-nos a manter o Magento saudável",module,Magento_Theme

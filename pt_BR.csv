@@ -8269,7 +8269,7 @@ Complete,Finalizado,module,Magento_Sales
 "Original Price","Preço original",module,Magento_Sales
 "Tax Percent","Porcentagem de imposto",module,Magento_Sales
 "Transaction Data","Dados da Transação",module,Magento_Sales
-"Parent Transaction ID","Parent Transaction ID",module,Magento_Sales
+"Parent Transaction ID","ID da Última Transação",module,Magento_Sales
 "Transaction Type","Tipo de Transação",module,Magento_Sales
 "Is Closed","Está fechado",module,Magento_Sales
 "Child Transactions","Child Transactions",module,Magento_Sales
@@ -8307,7 +8307,7 @@ Ok,Ok,module,Magento_Sales
 "Anchor Custom Title","Vincular Título Personalizado",module,Magento_Sales
 Phone,Telefone,module,Magento_Sales
 "Default Template","Modelo padrão",module,Magento_Sales
-"Minimum Order Amount","Minimum Order Amount",module,Magento_Sales
+"Minimum Order Amount","Valor Mínimo de Encomenda",module,Magento_Sales
 Comma-separated,"Separados por vírgula",module,Magento_Sales
 "Hide Customer IP","Esconder IP do Cliente",module,Magento_Sales
 "Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.",module,Magento_Sales
@@ -9143,10 +9143,10 @@ CSV,CSV,module,Magento_Tax
 Rate,Rate,module,Magento_Tax
 "Shipping Incl. Tax (%1)","Frete incl. imposto (%1)",module,Magento_Tax
 "Shipping Excl. Tax (%1)","Frete excl. imposto (%1)",module,Magento_Tax
-"Grand Total Excl. Tax","Grand Total Excl. Tax",module,Magento_Tax
-"Grand Total Incl. Tax","Grand Total Incl. Tax",module,Magento_Tax
-"Subtotal (Excl. Tax)","Subtotal (Excl. Tax)",module,Magento_Tax
-"Subtotal (Incl. Tax)","Subtotal (Incl. Tax)",module,Magento_Tax
+"Grand Total Excl. Tax","Total s/IVA",module,Magento_Tax
+"Grand Total Incl. Tax","Total c/IVA",module,Magento_Tax
+"Subtotal (Excl. Tax)","Subtotal (s/IVA)",module,Magento_Tax
+"Subtotal (Incl. Tax)","Subtotal (c/IVA)",module,Magento_Tax
 "Row Total","Linha Total",module,Magento_Tax
 "Tax Rate Information","Informação de Imposto de Taxa",module,Magento_Tax
 "Tax Identifier","Identificador Fiscal",module,Magento_Tax
@@ -9178,7 +9178,7 @@ State,Estado,module,Magento_Tax
 "Shipping & Handling (Excl.Tax)","Transporte e Manipulação (Sem Impostos)",module,Magento_Tax
 "Shipping & Handling (Incl.Tax)","Transporte e Manipulação (Incluindo Tarifas)",module,Magento_Tax
 "Grand Total (Excl.Tax)","Preço Final (Sem Impostos)",module,Magento_Tax
-"Grand Total (Incl.Tax)","Preço Final (Com Impostos)",module,Magento_Tax
+"Grand Total (Incl.Tax)","Total (c/IVA)",module,Magento_Tax
 "Tax Zones and Rates","Zona de impostos e tarifas",module,Magento_Tax
 "Manage Tax Rates","Gerenciar Taxas de Imposto",module,Magento_Tax
 "New Tax Rate","Adicionar Nova Taxa de Imposto",module,Magento_Tax
@@ -9186,13 +9186,13 @@ State,Estado,module,Magento_Tax
 "Something went wrong saving this rate.","Ocorreu um erro ao salvar esta taxa.",module,Magento_Tax
 "Edit Tax Rate","Editar a taxa de imposto",module,Magento_Tax
 "The tax rate has been deleted.","A taxa de imposto foi apagado.",module,Magento_Tax
-"Something went wrong deleting this rate.","Something went wrong deleting this rate.",module,Magento_Tax
+"Something went wrong deleting this rate.","Algo correu mal ao apagar esta taxa.",module,Magento_Tax
 "Something went wrong deleting this rate because of an incorrect rate ID.","Ocorreu um erro ao apagar esta taxa devido a uma ID de taxa incorreta.",module,Magento_Tax
 "An error occurred while deleting this tax rate.","Ocorreu um erro ao apagar esta taxa de imposto.",module,Magento_Tax
 "Import and Export Tax Rates","Importação e Exportação Taxas",module,Magento_Tax
 "The tax rate has been imported.","A taxa de imposto foi importada.",module,Magento_Tax
 "Invalid file upload attempt","Arquivo inválido",module,Magento_Tax
-"Tax Rules","Tax Rules",module,Magento_Tax
+"Tax Rules","Regras de Taxas",module,Magento_Tax
 "New Tax Rule","New Tax Rule",module,Magento_Tax
 "The tax rule has been saved.","A regra de imposto foi salva.",module,Magento_Tax
 "Something went wrong saving this tax rule.","Ocorreu um erro ao salvar esta regra fiscal.",module,Magento_Tax
@@ -9218,7 +9218,7 @@ State,Estado,module,Magento_Tax
 "Grand Total (Excl. Tax)","Preço Final (Sem Impostos)",module,Magento_Tax
 "Grand Total (Incl. Tax)","Preço Final (Com Impostos)",module,Magento_Tax
 "Shipping (Excl. Tax)","Entrega (Excl. IVA)",module,Magento_Tax
-"Shipping (Incl. Tax)","Shipping (Incl. Tax)",module,Magento_Tax
+"Shipping (Incl. Tax)","Expedição (c/IVA)",module,Magento_Tax
 "Before Discount","Antes do Desconto",module,Magento_Tax
 "After Discount","Após o Desconto",module,Magento_Tax
 "Excluding Tax","Excluindo impostos",module,Magento_Tax
@@ -9272,7 +9272,7 @@ Note:,Anotação:,module,Magento_Tax
 "Display Zero Tax Subtotal","Display Zero Tax Subtotal",module,Magento_Tax
 "Orders, Invoices, Credit Memos Display Settings","Orders, Invoices, Credit Memos Display Settings",module,Magento_Tax
 State/Region,Estado/região,module,Magento_Tax
-"Subtotal Only","Subtotal Only",module,Magento_Tax
+"Subtotal Only","Subtotal apenas",module,Magento_Tax
 Taxes,Taxas,module,Magento_Tax
 "Import/Export Tax Rates","Importação / Exportação Taxas",module,Magento_Tax
 "Asynchronous sending","Envio sem sincronização",module,Magento_Tax

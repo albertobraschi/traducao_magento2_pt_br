@@ -6301,7 +6301,7 @@ Charge-off,Reembolso,module,Magento_Paypal
 Funding,Financiamento,module,Magento_Paypal
 "General (Authorization)","Geral (Autorização)",module,Magento_Paypal
 "General (Dividend)","Geral (Dividendo)",module,Magento_Paypal
-"General (Funds Transfer from PayPal Account to Another)","Geral (Transferência de Fundos entre Contas PayPal)",module,Magento_Paypal
+"General (Funds Transfer from PayPal Account to Another)","Geral (Transferência de Fundos da Conta PayPal para Outra Conta)",module,Magento_Paypal
 "General (Purchase with a credit card)","Geral (Compra com um cartão de crédito)",module,Magento_Paypal
 "General Adjustment without businessrelated event","Ajuste Geral sem nenhum evento comercial relacionado",module,Magento_Paypal
 "General Currency Conversion","Conversão de moeda",module,Magento_Paypal
@@ -6482,7 +6482,7 @@ Continue,Próximo,module,Magento_Paypal
                         or more. <a href=\"https:/financing.paypal.com/ppfinportal/content/forrester\" target=\"_blank\">See Details</a>.","<a href=\"https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\" target=\"_blank\">Porque Devo Anunciar Financiamento?</a><br/> <strong> Aumente as suas vendas ao anunciar financiamento.</strong><br/>O PayPal ajuda a tornar utilizadores em compradores com financiamento de PayPal Credit&#174;. Os seus clientes têm mais tempo para pagar, enquanto o comerciante é pago imediatamente - e sem custos adicionais para si. Utilize os banners gratuitos do PayPal para anunciar o Crédito PayPal &#174; e fornecer financiamento aos clientes como opção de pagamento quando efetuarem checkout com PayPal. O Programa de Anúncios PayPal comprovou gerar compras adicionais bem como aumentar o valor da compra média dos clientes por 15% ou mais. <a href=\"https:/financing.paypal.com/ppfinportal/content/forrester\" target=\"_blank\">Ver Detalhes</a>.",module,Magento_Paypal
 "Publisher ID","ID do Editor",module,Magento_Paypal
 "Required to display a banner","Necessário para exibir um banner",module,Magento_Paypal
-"Get Publisher ID from PayPal","Obter ID do Editor através do PayPal",module,Magento_Paypal
+"Get Publisher ID from PayPal","Obter o ID de editor do PayPal",module,Magento_Paypal
 "Home Page","Página inicial",module,Magento_Paypal
 Display,Exibir,module,Magento_Paypal
 Position,Posição,module,Magento_Paypal
@@ -6499,14 +6499,14 @@ Title,Título,module,Magento_Paypal
 "Authorization Honor Period (days)","Período de Honra de Autorização (dias)",module,Magento_Paypal
 "Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Especifica qual é o Período de Honra de Autorização na conta de PayPal do comerciante. Deve igualar a definição no PayPal.",module,Magento_Paypal
 "Order Valid Period (days)","Período de Validade da Encomenda (dias)",module,Magento_Paypal
-"Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Especifica qual é o Prazo de Validade da Encomenda na conta de PayPal do comerciante. Deve igualar a definição no PayPal.",module,Magento_Paypal
+"Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Especifica qual é o Prazo de Validade da Encomenda na conta de PayPal do comerciante. Deve ser igual a configuração no PayPal.",module,Magento_Paypal
 "Number of Child Authorizations","Numero de Autorizações Filhas",module,Magento_Paypal
 "The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","O numero total de autorizações filhas na sua conta PayPal é 1. Para múltiplas autorizações, por favor entre em contato com o PayPal e solicite um aumento.",module,Magento_Paypal
 "Advanced Settings","Configurações Avançadas",module,Magento_Paypal
 "Display on Shopping Cart","Visualizar no Carrinho de Compras",module,Magento_Paypal
 "Also affects mini-shopping cart.","Também Afetam o mini-carrinho de compras.",module,Magento_Paypal
 "Payment Applicable From","Pagamento Aplicável De",module,Magento_Paypal
-"Countries Payment Applicable From","Países com Pagamento Aplicável",module,Magento_Paypal
+"Countries Payment Applicable From","Países com Pagamento Aplicável de",module,Magento_Paypal
 "Debug Mode","Modo de depuração",module,Magento_Paypal
 "Enable SSL verification","Ativar Verificação SSL",module,Magento_Paypal
 "Transfer Cart Line Items","Transferir Itens da Linha do Carrinho",module,Magento_Paypal
@@ -6514,19 +6514,19 @@ Title,Título,module,Magento_Paypal
 "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","Se esta opção estiver ativa, o cliente poderá alterar a morada e o modo de envio no site do PayPal. Em modo produção funcionará apenas através do protocolo HTTPS.",module,Magento_Paypal
 "Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.","Note que o PayPal pode gerir até 10 opções de envio. Devido a isto, o Magento irá transferir apenas as 10 opções de envio mais baratas se existirem mais de 10.",module,Magento_Paypal
 "Shortcut Buttons Flavor","Tipo de Botões de Atalho",module,Magento_Paypal
-"Enable PayPal Guest Checkout","Ativar Checkout PayPal para Utilizadores Não Registados",module,Magento_Paypal
-"Ability for buyer to purchase without PayPal account.","Opção para o comprador efetuar a compra sem uma conta PayPal.",module,Magento_Paypal
+"Enable PayPal Guest Checkout","Ativar Checkout PayPal para Usuários Não Registados",module,Magento_Paypal
+"Ability for buyer to purchase without PayPal account.","Capacitar comprador para efetuar a compra sem uma conta PayPal.",module,Magento_Paypal
 "Require Customer's Billing Address","Exigir Endereço de Faturação do Cliente",module,Magento_Paypal
 "This feature needs be enabled first for the merchant account through PayPal technical support.","Esta funcionalidade precisa de ser primeiro ativada para a conta de comerciante através do suporte técnico do PayPal.",module,Magento_Paypal
-"Billing Agreement Signup","Adersão ao Acordo de Faturação",module,Magento_Paypal
-"Whether to create a billing agreement, if there are no active billing agreements available.","Se deve ser criado um acordo de faturação, se não houver acordos de faturação ativos e disponíveis.",module,Magento_Paypal
-"Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Os comerciantes tem de contactar a PayPal para ativar a funcionalidade dos acordos de faturação. Não ative esta opção até que a PayPal confirme que os acordos de faturação foram ativados para a sua conta de comerciante.",module,Magento_Paypal
-"Skip Order Review Step","Saltar Passo de Revisão da Encomenda",module,Magento_Paypal
-"PayPal Billing Agreement Settings","Definições de Acordo de Faturação PayPal",module,Magento_Paypal
+"Billing Agreement Signup","Assinatura do Contrato de Cobrança",module,Magento_Paypal
+"Whether to create a billing agreement, if there are no active billing agreements available.","Seja para criar um contrato de cobrança, se não houver acordos de cobrança ativos disponíveis.",module,Magento_Paypal
+"Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Os comerciantes tem de contactar a PayPal para ativar a funcionalidade dos acordos de fatura. Não ative esta opção até que a PayPal confirme que os acordos de fatura foram ativados para a sua conta de comerciante.",module,Magento_Paypal
+"Skip Order Review Step","Pular Passo de Revisão do Pedido",module,Magento_Paypal
+"PayPal Billing Agreement Settings","Configurações de acordo de faturamento do PayPal",module,Magento_Paypal
 Enabled,Habilitado,module,Magento_Paypal
 "Will appear as a payment option only for customers who have at least one active billing agreement.","Irá aparecer como opção de pagamento apenas para clientes que tenham um acordo de faturação ativo.",module,Magento_Paypal
-"Allow in Billing Agreement Wizard","Permitir no Assistente de Acordo de Faturação",module,Magento_Paypal
-"Settlement Report Settings","Definições de Relatórios de Liquidação",module,Magento_Paypal
+"Allow in Billing Agreement Wizard","Permitir no Assistente de Acordo de Fatura",module,Magento_Paypal
+"Settlement Report Settings","Configurações de relatório de liquidação",module,Magento_Paypal
 "SFTP Credentials","Credenciais SFTP",module,Magento_Paypal
 Login,Entrar,module,Magento_Paypal
 Password,Senha,module,Magento_Paypal
@@ -6599,7 +6599,7 @@ User,Usuário,module,Magento_Paypal
                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                             or more. <a href=\"https:/financing.paypal.com/ppfinportal/content/forrester\" target=\"_blank\">See Details</a>.","<a href=\"https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\" target=\"_blank\">Porque Devo Anunciar Financiamento?</a><br/> <strong> Aumente as suas vendas ao anunciar financiamento.</strong><br/>O PayPal ajuda a tornar utilizadores em compradores com financiamento de PayPal Credit&#174;. Os seus clientes têm mais tempo para pagar, enquanto o comerciante é pago imediatamente - e sem custos adicionais para si. Utilize os banners gratuitos do PayPal para anunciar o Crédito PayPal &#174; e fornecer financiamento aos clientes como opção de pagamento quando efetuarem checkout com PayPal. O Programa de Anúncios PayPal comprovou gerar compras adicionais bem como aumentar o valor da compra média dos clientes por 15% ou mais. <a href=\"https:/financing.paypal.com/ppfinportal/content/forrester\" target=\"_blank\">Ver Detalhes</a>.",module,Magento_Paypal
 "Basic Settings - PayPal Payments Pro Hosted Solution","Definições Básicas - Solução de Pagamentos PayPal Pro Hosted",module,Magento_Paypal
-"It is recommended to set this value to ""PayPal"" per store views.","É recomendado definir este valor para ""PayPal"" por vista de loja.",module,Magento_Paypal
+"It is recommended to set this value to ""PayPal"" per store views.","É recomendado definir este valor para ""PayPal"" por visão de loja.",module,Magento_Paypal
 "Display Express Checkout in the Payment Information step","Mostrar Checkout Express no passo de informação do Pagamento",module,Magento_Paypal
 "Website Payments Pro Hosted Solution and Express Checkout","Solução de Pagamentos de Site da Web Pro Hospedado e Finalizar Compra Expresso",module,Magento_Paypal
 "Basic Settings - PayPal Website Payments Pro Hosted Solution","Definições Básicas - Solução de Pagamentos PayPal Pro Hosted",module,Magento_Paypal
